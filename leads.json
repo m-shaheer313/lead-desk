@@ -1,0 +1,32 @@
+[
+  {
+    "id": "lead-001",
+    "message": "Hi, I need a React dashboard for my e-commerce store. Budget is 150000 PKR. Can you start this week?",
+    "platform": "Upwork"
+  },
+  {
+    "id": "lead-002",
+    "message": "I can't pay upfront, but I'll give you 20% revenue share once the app starts making money. It's a great opportunity!",
+    "platform": "Fiverr"
+  },
+  {
+    "id": "lead-003",
+    "message": "Hey, I need a website. How much would you charge?",
+    "platform": "Upwork"
+  },
+  {
+    "id": "lead-004",
+    "message": "URGENT! Our site crashed and we lose sales every hour. Can you fix it TODAY? We'll pay anything, just start now.",
+    "platform": "Fiverr"
+  },
+  {
+    "id": "lead-005",
+    "message": "Need someone to change the logo color on my WordPress site and update the footer text. Quick 10-minute job, I can pay 500 PKR.",
+    "platform": "Fiverr"
+  },
+  {
+    "id": "lead-006",
+    "message": "I need a full e-commerce platform with payment integration done in 2 days, no excuses. If you can't commit to my deadlines, don't bother replying.",
+    "platform": "Upwork"
+  }
+]
